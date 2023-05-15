@@ -7,7 +7,7 @@ export default function App() {
   return (
        <WebView
         source={{
-          uri: 'https://apnakonnect.com/media/post_files-48e76dc4-bd1c-489a-9f55-57bbff208eb11683926341971-VID-20230323-WA0049.mp4',
+          uri: 'https://www.apnakonnect.com/media/media-1684139666273-264779424-WhatsApp%20Video%202023-05-15%20at%201.13.13%20PM.mp4',
         }}
         style={styles.container}
         />
